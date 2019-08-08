@@ -7,6 +7,8 @@ The app uses the following third party lib
 ♟ Room
 ♟ EventBus
 
+<img src="device-2019-08-08-094637.png" width="50%" height="50%"/>
+
 ### build.gradle
 ```
 dependencies {
