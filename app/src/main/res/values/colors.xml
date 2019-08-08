@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Change App Theme color-->
+    <color name="colorPrimary">#0065DC</color>
+    <color name="colorPrimaryDark">#4A9CFE</color>
+    <color name="colorAccent">#00D998</color>
+
+    <!--White color-->
+    <color name="white">#FFFFFF</color>
+
+    <!--EditText Background-->
+    <color name="edit_bg">#F6F6F6</color>
+
+    <!--Hint Color-->
+    <color name="hint_color">#CDCDCD</color>
+
+    <!--Default TextColor-->
+    <color name="black">#FF000000</color>
+
+    <!--Convert Color-->
+    <color name="convert_color">#BBBBBB</color>
+
+    <color name="red">#B30000</color>
+
+    <color name="green">#69D45D</color>
+
+    <color name="chartIndicator">#50A0FE</color>
+</resources>
