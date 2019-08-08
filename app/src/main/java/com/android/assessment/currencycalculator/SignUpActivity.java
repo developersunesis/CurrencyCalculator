@@ -53,7 +53,7 @@ public class SignUpActivity extends AppCompatActivity {
             public void onClick(View view) {
                 if(!email.getText().toString().isEmpty() && !password.getText().toString().isEmpty() && !confirm_password.getText().toString().isEmpty()){
                     if(password.getText().toString().equals(confirm_password.getText().toString())){
-                        if(ValidateEmail.isValidEmail(password.getText().toString())) {
+                        if(ValidateEmail.isValidEmail(email.getText().toString())) {
                             Toast.makeText(getApplicationContext(), "Registration Complete!", Toast.LENGTH_LONG).show();
                             finish();
                         } else {
