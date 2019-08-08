@@ -30,7 +30,8 @@ dependencies {
 
 ```
 
-Everything would work fine; You are to setup your fixer.io account and obtain an ACCESS_KEY once that is done, navigate to the ##### Constants.java
+Everything would work fine; You are to setup your fixer.io account and obtain an ACCESS_KEY once that is done, navigate to the 
+##### Constants.java
 Then set you access key!
 
 ```
