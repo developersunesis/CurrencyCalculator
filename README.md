@@ -57,4 +57,4 @@ public final class Constants {
 
 🚀🚀 Use the unit and UI tests to confirm, You are good to go!!
 <br/>
-<a href="https://github.com/developersunesis/CurrencyCalculator/blob/master/app/release/app-release.apk">Download APK</a>
+
